@@ -9,7 +9,7 @@
 This is my personal portfolio and project showcase website built with GitHub Pages.
 
 ## Featured Projects
-- [Project Name](https://github.com/Annie-1151462/project-name) — Brief description
+- [Project Name](https://github.com/Annie-1151462/Pages_URL) — Brief description
 - [Course Repository](https://github.com/Annie-1151462/11501_CI001) — CI001 Course assignments
 
 ## Contact
